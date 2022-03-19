@@ -1,0 +1,106 @@
+.main{
+    width: 500px;
+    height: 540px;
+    background-color: blue;
+    position: absolute;
+    margin-left: 500px;
+}
+.row-1{
+width: 460px;
+height: 50px;
+margin-top: 10px;
+margin-left: 20px;
+background-color: white;
+}
+.col-1{
+    width: 300px;
+    height: 10px;
+    margin-left: 10px;
+    float: left;
+}
+hr{
+    border-width: 0.5px;
+}
+.t{
+    background-color: black;
+    color: white;
+    height: 40px;
+    margin-left: 85px;
+    position: absolute;
+    width: 30px;
+}
+
+
+.col-2{
+
+     margin-top: 10px;
+     border-radius: 5px;
+     margin-right: 10px;
+    width: 140px;
+    height: 50px;
+    font-weight: bold;
+    background-color: lightblue;
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.row-2{
+    width: 440px;
+    height: 445px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 20px;
+    background-color: white;
+    }
+.tit{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.headings{
+    margin: 20px;
+    font-size: large;
+}
+tr{
+    outline-color: black;
+    outline-width: 1px;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+
+td{
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 10px;
+    width: 400px;
+    outline-color: black;
+    outline-width: 1px;
+}
+.con{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    width: 440;
+}
+.ques{
+    margin-top: 2px;
+
+}
+.but
+{
+    float: right;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
